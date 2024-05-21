@@ -1,0 +1,3 @@
+[submodule "FrontEnd/RestaurantApp"]
+	path = FrontEnd/RestaurantApp
+	url = https://github.com/quochungdev/FoodStoreApp
