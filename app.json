@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "RestaurantApp",
+    "slug": "RestaurantApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["./src/assets/fonts/BMDANIEL-Bold.ttf"]
+        }
+      ]
+    ]
+  },
+  "name": "RestaurantApp"
+}
